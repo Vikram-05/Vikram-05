@@ -1,18 +1,13 @@
 # 💫 Hi 👋, I'm Vikram Kumar
 **B.Tech CSE 5th Semester Student | Java Full Stack Developer | Exploring Cloud, DevOps & Kafka**
 
-Email Me 👉 ✉️ **vikramdbs9097@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vikramdbs9097@gmail.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently working on:** Project Ambulance
 - 🌱 **I’m currently learning:** Kafka
-- 👯 **I’m looking to collaborate on:** Ambulance
-- 🤔 **I’m looking for help with:** --
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vikramdbs9097@gmail.com
-- 😄 **Pronouns:** vikram
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Student. 😊😊
+## 🔗 I am a Student. 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
