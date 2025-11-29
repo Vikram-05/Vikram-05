@@ -7,15 +7,15 @@ Email Me 👉 ✉️ **vikramdbs9097@gmail.com** For Collaboration/Project or An
 - 🌱 **I’m currently learning:** Kafka
 - 📫 **How to reach me:** vikramdbs9097@gmail.com
 
-## 🔗 I am a Student. 
+<!-- ## 🔗 I am a Student.  -->
 
-<!-- [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in) 
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 ## 🌐 Socials:
